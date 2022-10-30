@@ -2,7 +2,7 @@
 
 ## **Bidirectional Job & Resume Matching System**
 
-
+![image-20221030183558730](/Users/liyurui/Library/Application Support/typora-user-images/image-20221030183558730.png)
 
 ------
 
@@ -28,15 +28,19 @@ This report will introduce and analyse the project through 6 sections, which are
 
 ## SECTION 4 : VIDEO OF SYSTEM MODELLING & USE CASE DEMO
 
+## Marketing Video
 
+[![](/Users/liyurui/Library/Application Support/typora-user-images/image-20221030182319245.png)](https://youtu.be/5CQ3vliPs-s )
+
+## Technical Video
+
+[![截屏2022-10-30 下午6.27.21](/Users/liyurui/Desktop/截屏2022-10-30 下午6.27.21.png)](https://youtu.be/g8jw_G5u2wQ)
 
 ------
 
 ## SECTION 5 : USER GUIDE
 
-```
-Refer to appendix <Installation & User Guide> in project report at Github Folder: ProjectReport
-```
+[UserGuide](https://github.com/lyrrrr/IRS-PM-2022-08-21-ISFT-GRP-WorkNet/tree/main/ProjectReport)
 
 ### [ 1 ] To run the webapp in local machine
 
