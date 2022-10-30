@@ -44,7 +44,7 @@ Refer to appendix <Installation & User Guide> in project report at Github Folder
 
 > Open up your command prompt/terminal
 
-> Do git clone https://github.com/lyrrrr/IRS-PM-2022-IS04FT-GRP-WorkNet or go to git url mentioned above to directly download the project, unzip and keep it in your folder directory.
+> Do git clone https://github.com/lyrrrr/IRS-PM-2022-08-21-ISFT-GRP-WorkNet or go to git url mentioned above to directly download the project, unzip and keep it in your folder directory.
 
 > pip install the components from requirements.txt
 
@@ -63,7 +63,7 @@ Refer to appendix <Installation & User Guide> in project report at Github Folder
 
 > Open up your terminal
 
-> git clone <https://github.com/lyrrrr/IRS-PM-2022-IS04FT-GRP-WorkNet>
+> git clone <https://github.com/lyrrrr/IRS-PM-2022-08-21-ISFT-GRP-WorkNet>
 
 > pip install the components from Systemcode\WORKNET\requirements.txt
 
@@ -109,11 +109,11 @@ Datasource we used:
 
 ## SECTION 6 : PROJECT REPORT / PAPER
 
-[ProjectReport](https://github.com/lyrrrr/IRS-PM-2022-IS04FT-GRP-WorkNet/tree/main/ProjectReport)
+[ProjectReport](https://github.com/lyrrrr/IRS-PM-2022-08-21-ISFT-GRP-WorkNet/tree/main/ProjectReport)
 
 ------
 
 ## SECTION 7 : MISCELLANEOUS
 
-[Miscellaneous](https://github.com/lyrrrr/IRS-PM-2022-IS04FT-GRP-WorkNet/tree/main/Miscellaneous)
+[Miscellaneous](https://github.com/lyrrrr/IRS-PM-2022-08-21-ISFT-GRP-WorkNet/tree/main/Miscellaneous)
 
